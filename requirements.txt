@@ -1,0 +1,6 @@
+#pip install -r requirements.txt
+groq
+python-telegram-bot>=20.0
+pandas
+openpyxl
+python-dotenv
